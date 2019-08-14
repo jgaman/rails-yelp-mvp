@@ -4,8 +4,10 @@ one:
   name: MyString
   adress: MyString
   category: MyString
+  review: MyString
 
 two:
   name: MyString
   adress: MyString
   category: MyString
+  review: MyString
